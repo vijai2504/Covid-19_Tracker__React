@@ -1,4 +1,4 @@
-To View demo [Click here](https://covid-19-tracker-b2387.web.app/).
+To View demo of Covid-19 Tracker [Click here](https://covid-19-tracker-b2387.web.app/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
